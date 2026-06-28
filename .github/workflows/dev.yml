@@ -1,6 +1,5 @@
 name: Python CI
-
-     on: [push]
+on: [push]
 
 jobs:
   build:
